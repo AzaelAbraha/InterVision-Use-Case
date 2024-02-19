@@ -1,0 +1,3 @@
+"key","Balance","CardInformation","DueDate","FirstName","LastName","LastPayment","LastPaymentDate","MinimumDue","Pin"
+"2142187327","925.95","{""CardNumber"":{""N"":""1234567890123456""},""ExpirationMonth"":{""N"":""8""},""SecurityCode"":{""N"":""123""},""ExpirationYear"":{""N"":""2027""}}","2024-02-25","Azael","Abraha","50","2024-02-18","35","9999"
+"1234567890","50","{""CardNumber"":{""N"":""1234567890123456""},""ExpirationMonth"":{""N"":""8""},""SecurityCode"":{""N"":""123""},""ExpirationYear"":{""N"":""2027""}}","2024-02-27","John","Smith","150","2024-02-17","30","5555"
